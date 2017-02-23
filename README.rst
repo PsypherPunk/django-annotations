@@ -1,3 +1,9 @@
+============
+[DEPRECATED]
+============
+
+This repo. has been deprecated and moved to a standalone Django app: `django-annotator <https://github.com/PsypherPunk/django-annotator>`_.
+
 ==================
 django-annotations
 ==================
